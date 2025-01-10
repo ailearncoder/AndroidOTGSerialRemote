@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SerialRemote</string>
+    <string name="no_usb_device">没有USB设备</string>
+    <string name="usb_device_list">设备列表</string>
+    <string name="device_not_supported">不支持的设备</string>
+    <string name="service_rebooting">服务重新启动中…</string>
+    <string name="usb_device_connected">USB设备已连接</string>
+    <string name="connected">已连接</string>
+</resources>
